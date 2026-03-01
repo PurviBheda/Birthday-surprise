@@ -80,7 +80,7 @@ export function ForYou() {
             <p>I Love You 😚🩷</p>
 
             <p>
-              5th March, A few years back, this was just a normal day for me.
+              5th March, 2.5 years back, this was just a normal day for me.
               But I could never have imagined that this was the day when the
               love of my life was born 🥹. Your beautiful smile, your cute eyes
               that i keep falling for, your kuchu puchu nose 😚, your messy hair,
