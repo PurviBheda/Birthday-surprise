@@ -6,6 +6,7 @@ import bf5 from "./assets/5.jpeg";
 import bf6 from "./assets/6.jpeg";
 import bf7 from "./assets/7.jpeg";
 import bf8 from "./assets/8.jpeg";
+import bf9 from "./assets/9.jpeg";
 
 export function Gallery() {
   const photos = [
@@ -17,6 +18,7 @@ export function Gallery() {
     { id: 6, url: bf6 },
     { id: 7, url: bf7 },
     { id: 8, url: bf8 },
+    { id: 9, url: bf9 },
   ];
 
   return (
